@@ -16,10 +16,10 @@
 // Navigation über INDEX
 
 // let arr;
-// arr = new Array();
+// // arr = new Array();
 // arr = [true,false,false,true];
 
-// Index beginnt mit 0
+// // Index beginnt mit 0 // Klausurrelevant!!!
 // console.log(arr);
 // console.log(arr[0]);
 // console.log(arr[3]);
@@ -39,7 +39,7 @@
 // arr.pop();
 // console.log(arr);
 
-/* Objekte */
+/* Objekte */ // Klausurrelevant !!! 
 // Navigation über Bezeichner (keys)
 
 // let obj = {};
@@ -65,7 +65,7 @@
 // console.log(obj.sub1.val2);
 // {{{{{....}}}}} ... nested object
 
- /*DOM*/
+ /*DOM*/  // Klausurrelevant !!!
 // DOM  --> Modell der HTMl-Struktur
 // DOM --> Document Object Model
 // DOM --> nach dem Parsen / Laden der HTML-Seite  
@@ -81,7 +81,7 @@
 
 /* ENTSCHEIDUNGSSTRUKTUREN | CONTROL FLOW*/
 
-// let cond; // ??
+// let cond; //  // Klausurrelevant !!!
 
 // cond = true;
 // cond = (6 > 4);
@@ -106,20 +106,20 @@
 
 /* FUNKTIONEN */
 
-// 1. Kapselung
+// 1. Kapselung  // Klausurrelevant !!!
 // test();
 // function test() { // Fkt.-Rumpf | body
 //     console.log("Testausgabe"); 
 // }
 
-// 2. return
+// 2. return  // Klausurrelevant !!!
 //  console.log(test2());
 //  function test2() { // do something ...
 //     return "Testausgabe 2"; // Lieferung an die Stelle des calls
 //     console.log("Noch eine Ausgabe"); // nach return Abbruch!
 //  }
 
-// 3. Parameter 
+// 3. Parameter  // Klausurrelevant !!!
 //  console.log(test3("Robert")); // Argument(e)
 //  function test3(firstName) // Parameter
 //  { // do something ...
